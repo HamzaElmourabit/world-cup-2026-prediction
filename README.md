@@ -127,6 +127,16 @@ Pour exécuter la version script du projet :
 ```bash
 python notebooks/worldcup2026_full_tournament_simulation.py
 ```
+## Résultats de la simulation
+
+### Probabilités des huitièmes de finale
+
+Le graphique ci-dessous montre les probabilités de victoire pour chaque match des huitièmes de finale :
+
+<p align="center">
+  <img src="images/Capture d'écran 2026-07-05 211919.png" alt="Comparaison des probabilités de chaque match - Round of 16" width="60%">
+</p>
+
 
 ## Points à noter
 
