@@ -137,6 +137,14 @@ Le graphique ci-dessous montre les probabilités de victoire pour chaque match d
   <img src="images/Capture d'écran 2026-07-05 211919.png" alt="Comparaison des probabilités de chaque match - Round of 16" width="60%">
 </p>
 
+### Probabilité de remporter la Coupe du Monde
+
+Après 10 000 simulations Monte Carlo, les probabilités de victoire finale sont les suivantes :
+
+<p align="center">
+  <img src="images/Capture d'écran 2026-07-05 211935.png" alt="Probabilité de remporter la Coupe du Monde - Simulation Monte Carlo" width="60%">
+</p>
+
 
 ## Points à noter
 
