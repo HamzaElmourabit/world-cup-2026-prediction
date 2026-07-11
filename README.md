@@ -17,6 +17,14 @@ Le repository combine plusieurs étapes classiques d’un workflow de data scien
 
 L’objectif est de fournir un exemple simple mais structuré de projet Python orienté sport analytics.
 
+## Architecture du projet
+
+Le diagramme ci-dessous illustre l'architecture complète du pipeline de prédiction :
+
+<p align="center">
+  <img src="images/architecture_worldcup_AI.png" alt="Architecture du pipeline de prédiction" width="70%">
+</p>
+
 ## Ce qui est utilisé dans le projet
 
 ### Langages et bibliothèques
