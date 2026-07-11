@@ -2,6 +2,10 @@
 
 Ce projet vise à analyser des données footballistiques liées à la Coupe du Monde 2026 et à construire une simulation de tournoi à partir de fichiers CSV, d’un notebook Jupyter et d’un script Python.
 
+<p align="center">
+  <img src="images/worldcup_architecture.png" alt="Coupe du Monde 2026 - Simulation XGBoost" width="100%">
+</p>
+
 ## Objectif du projet
 
 Le repository combine plusieurs étapes classiques d’un workflow de data science :
